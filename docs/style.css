@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.udi-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    background: white;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid #333;
+}
+
+th, td {
+    border: 1px solid #777;
+    padding: 6px;
+    text-align: left;
+}
+
+/* Colores de Encabezados */
+.header-main { background-color: #ffffff; text-align: center; font-size: 18px; font-weight: bold; }
+.header-blue { background-color: #5bc0de; color: black; text-align: center; font-weight: bold; }
+.header-yellow { background-color: #ffcc00; color: black; text-align: center; font-weight: bold; }
+.header-blue-dark { background-color: #4a86e8; color: white; text-align: center; }
+
+/* Sub-secciones */
+.bg-blue-light { background-color: #9fc5e8; font-weight: bold; }
+.bg-yellow-light { background-color: #ffe599; font-weight: bold; }
+.header-blue-light { background-color: #76a5af; font-weight: bold; }
+
+/* Zonas Aula del Futuro */
+.spaces-row td { text-align: center; font-weight: bold; color: black; }
+.sp-interactua { background-color: #ff00ff; }
+.sp-investiga { background-color: #b4a7d6; }
+.sp-desarrolla { background-color: #ff0000; color: white !important; }
+.sp-crea { background-color: #93c47d; }
+.sp-explora { background-color: #ffff00; }
+.sp-presenta { background-color: #e69138; }
+
+.empty-row td { height: 40px; }
+.small-text td { font-size: 10px; text-align: center; }
+.text-center { text-align: center; }
